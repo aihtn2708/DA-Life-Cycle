@@ -1,5 +1,5 @@
 # DA-Life-Cycle
-#Data Analytics Life Cycle
+**Data Analytics Life Cycle**
 Imagine that it is like baking a cake - you gather ingredients, prepare them, bake the cake, share it, and then serve it regularly.
 ## 1. Data Discovery
 First up is Data Discovery, where you identify what ingredients (data) you have and what you might need. Just like checking your pantry before starting a recipe.
