@@ -15,5 +15,5 @@ Once your cake (or model) is ready, it's time to Communicate Results. You presen
 ## 6. Operationalize
 Finally, there's Operationalize, where you integrate your model into regular operations. It's like making the cake a regular part of your dessert menu.
 
-Now let's explore the key phases with [practical examples of the Superstore dataset](https://github.com/aihtn2708/DA-Life-Cycle/blob/main/DA_Life_Cycle.ipynb) .
+Now let's explore the key phases with [practical example of the Superstore dataset](https://github.com/aihtn2708/DA-Life-Cycle/blob/main/DA_Life_Cycle.ipynb) .
 
